@@ -1,7 +1,14 @@
-### OLÁ, ME CHAMO CAIO!
+### [PT-BR]
+Olá, seja bem-vindo(a)!
+Me chamo Caio, tenho 20 anos e sou técnico em informatica.
+Constante aprendiz, atualmente sou estudante de desenvolvimento web full-stack na Trybe, O que hoje me encanta na área de desenvolvimento web é poder atuar e causar um impacto positivo na vida de pessoas nas mais diversas áreas.
+
+### [ENG-USA]
+Hello, Welcome!
+My name is Caio, I’m 20 years old and I’m a computer technician.
+ As a constant learner, I am currently a full-stack web development student at Trybe, What I love about web development today is being able to make a  positive impact on people’s lives in many different areas.
 
 ### 
-  
 <div style="display: inline_block"><br>
 <h1> FRONT END </h1>
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
