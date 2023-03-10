@@ -11,7 +11,7 @@ class Bio extends FullStackDeveloper {
   title    = 'Full stack Developer';
   name     = 'Caio Pinho';
   age      =  20
-  location = 'Altos, PI';
+  location = 'Altos, PI, Brazil';
   website  = 'I AM WORKING ON IT ';
 }
 
