@@ -1,5 +1,5 @@
 
-## SUP, MY NAME IS CAIO AND I'M FROM BRAZIL 
+## SUP, MY NAME IS CAIO
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/104791688/216774350-4315fd9e-5d36-4692-93d3-88cc83568c27.gif" />
 
