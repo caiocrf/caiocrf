@@ -16,7 +16,7 @@ class Bio extends FullStackDeveloper {
 class Skills extends FullStackDeveloper {
   Tools     = ['git', 'github', 'vscode'];
   FrontEnd  = ['JavaScript', 'HTML', 'CSS'];
-  BackEnd = ['NodeJS', 'Docker', 'TypeScript' ,'Python', 'Sequelize', 'Prisma'];
+  BackEnd = ['NodeJS', 'Docker', 'TypeScript' ,'Python', 'Sequelize'];
   databases  = ['MySQL', 'MongoDB'];
   frameworks = ['React','Express','Bootstrap', 'Jest', ];
 }
