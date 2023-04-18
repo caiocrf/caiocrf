@@ -6,18 +6,18 @@
 import { FullStackDeveloper } from '@caiopinho';
 
 class Bio extends FullStackDeveloper {
-  name     = 'Caio Pinho';
-  title    = 'Full stack Developer';
-  aboutMe  = 'Desde criança, sempre conectado com tecnologia. 
+  name = 'Caio Pinho';
+  title = 'Full stack Developer';
+  aboutMe = 'Desde criança, sempre conectado com tecnologia.
   Com isso, construí conhecimentos em conjunto e aprimorei habilidades práticas.';
   location = 'Altos, PI, Brazil';
 }
 
 class Skills extends FullStackDeveloper {
-  Tools     = ['git', 'github', 'vscode'];
-  FrontEnd  = ['JavaScript', 'HTML', 'CSS'];
+  Tools = ['git', 'github', 'vscode'];
+  FrontEnd = ['JavaScript', 'HTML', 'CSS'];
   BackEnd = ['NodeJS', 'Docker', 'TypeScript' ,'Python', 'Sequelize'];
-  databases  = ['MySQL', 'MongoDB'];
+  databases = ['MySQL', 'MongoDB'];
   frameworks = ['React','Express','Bootstrap', 'Jest', ];
   tests = ['Mocha', 'Shai'];
 }
