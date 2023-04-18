@@ -11,6 +11,7 @@ class Bio extends FullStackDeveloper {
   aboutMe = 'Desde criança, sempre conectado com tecnologia.
   Com isso, construí conhecimentos em conjunto e aprimorei habilidades práticas.';
   location = 'Altos, PI, Brazil';
+  age = 20;
 }
 
 class Skills extends FullStackDeveloper {
