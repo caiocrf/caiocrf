@@ -10,9 +10,9 @@ import { FullStackDeveloper } from '@caiopinho';
 class Bio extends FullStackDeveloper {
   title    = 'Full stack Developer';
   name     = 'Caio Pinho';
-  age      =  20
   location = 'Altos, PI, Brazil';
-  website  = 'I AM WORKING ON IT ';
+  aboutMe  = 'Desde criança, sempre conectado com tecnologia. 
+  Com isso, construí conhecimentos em conjunto e aprimorei habilidades práticas.';
 }
 
 class Skills extends FullStackDeveloper {
