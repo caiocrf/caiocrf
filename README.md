@@ -19,8 +19,8 @@ class Skills extends FullStackDeveloper {
   FrontEnd = ['JavaScript', 'HTML', 'CSS'];
   BackEnd = ['NodeJS', 'Docker', 'TypeScript' ,'Python', 'Sequelize'];
   databases = ['MySQL', 'MongoDB'];
-  frameworks = ['React','Express','Bootstrap', 'Jest', ];
-  tests = ['Mocha', 'Shai'];
+  frameworks = ['React','Express','Bootstrap'];
+  tests = ['Mocha', 'Shai', 'Jest'];
 }
 ```
 ###
