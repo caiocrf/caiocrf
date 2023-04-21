@@ -1,5 +1,9 @@
 
-## SUP, MY NAME IS CAIO. HERE IS SOME INFORMATION ABOUT ME, FELL FREE TO CONNECT WITH ME! 🇧🇷
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://www.linkedin.com/in/caio-pinho-a3959b238/">CAIO PINHO! </a></b>
+        </samp>
+</h3>
 
 ###
 ```js
