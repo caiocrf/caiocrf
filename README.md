@@ -1,6 +1,6 @@
 
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; HEY THERE!, I AM
                 <b><a target="_blank" href="https://www.linkedin.com/in/caio-pinho-a3959b238/">CAIO PINHO! </a></b>
         </samp>
 </h3>
