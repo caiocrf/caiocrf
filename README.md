@@ -27,8 +27,8 @@ class Skills extends FullStackDeveloper {
 
 <h3>Feel free to Connect 👥 with me on</h3>
 <div>
-<a href="https://linkedin.com/in/caiopinho" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/caio-pinho-a3959b238/" target="_blank">
+<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow caiopinho on LinkedIn" title="Follow caiopinho on LinkedIn"/>
 </a>
 </div>
 
