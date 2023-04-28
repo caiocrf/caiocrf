@@ -7,23 +7,22 @@
 
 ###
 ```js
-import { FullStackDeveloper } from '@caiopinho';
+import { BackEndDeveloper } from '@caiopinho';
 
-class Bio extends FullStackDeveloper {
+class Bio extends BackEndDeveloper {
+  title = 'BackEnd Developer';
   name = 'Caio Pinho';
-  title = 'Full stack Developer';
-  aboutMe = 'Desde criança, sempre conectado com tecnologia.
-  Com isso, construí conhecimentos em conjunto e aprimorei habilidades práticas.';
-  location = 'Altos, PI, Brazil';
+  aboutMe = 'Entusiasta da programação, atualmente aplico meus conhecimentos de forma prática em projetos de back-end.
+  Porém, tenho formação full-stack e conhecimentos voltados para todo o processo.
+  Estou construindo conhecimentos em conjunto e aprimorando habilidades de softskills e hardskills.';
   age = 20;
 }
 
-class Skills extends FullStackDeveloper {
+class Skills extends BackEndDeveloper {
   Tools = ['git', 'github', 'vscode'];
-  FrontEnd = ['JavaScript', 'HTML', 'CSS'];
   BackEnd = ['NodeJS', 'Docker', 'TypeScript' ,'Python', 'Sequelize'];
   databases = ['MySQL', 'MongoDB'];
-  frameworks = ['React','Express','Bootstrap'];
+  frameworks = ['React','Express','Mongoose'];
   tests = ['Mocha', 'Shai', 'Jest'];
 }
 ```
