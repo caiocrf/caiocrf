@@ -27,14 +27,17 @@ class Skills extends BackEndDeveloper {
 };
 ```
 ###
+<div align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocrf&layout=compact&theme=merko" alt="caio-crf" />
+</div>
 
+###
 <h3 align="center"> <samp>&gt; Feel free to Connect 👥 with me on </spam></h3>
 <div align="center">
 <a target="_blank" href="https://www.linkedin.com/in/caio-pinho-a3959b238/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 </a>
 <a target="_blank" href="mailto:icandoit2026@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 </div>
-
  
   ![Snake animation](https://github.com/caiocrf/caiocrf/blob/output/github-contribution-grid-snake.svg)
   
