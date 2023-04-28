@@ -16,7 +16,7 @@ class Bio extends BackEndDeveloper {
   Porém, tenho formação full-stack e conhecimentos voltados para todo o processo.
   Estou construindo conhecimentos em conjunto e aprimorando habilidades de softskills e hardskills.';
   age = 20;
-}
+};
 
 class Skills extends BackEndDeveloper {
   Tools = ['git', 'github', 'vscode'];
@@ -24,7 +24,7 @@ class Skills extends BackEndDeveloper {
   databases = ['MySQL', 'MongoDB'];
   frameworks = ['React','Express','Mongoose'];
   tests = ['Mocha', 'Shai', 'Jest'];
-}
+};
 ```
 ###
 
