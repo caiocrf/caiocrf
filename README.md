@@ -12,7 +12,7 @@ import { BackEndDeveloper } from '@caiopinho';
 class Bio extends BackEndDeveloper {
   title = 'BackEnd Developer';
   name = 'Caio Pinho';
-  age = 20;
+  age = 21;
   aboutMe = 'Entusiasta da programação, atualmente aplico meus conhecimentos de forma prática em projetos back-end.
   Porém, tenho formação full-stack e conhecimentos voltados para todo o processo.
   Estou construindo conhecimentos em conjunto e aprimorando habilidades de softskills e hardskills.';
