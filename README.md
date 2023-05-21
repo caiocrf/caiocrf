@@ -5,6 +5,7 @@
         </samp>
 </h3>
 
+
 ###
 ```js
 import { BackEndDeveloper } from '@caiopinho';
@@ -27,18 +28,26 @@ class Skills extends BackEndDeveloper {
 };
 ```
 ###
+<div> 
+<img align="right" alt="GIF" src="https://github.com/caiocrf/caiocrf/assets/104791688/8b70fa3a-eda8-455b-b676-a7adf73df0d8" width="350px" />
+</div>
 <div align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocrf&layout=compact&theme=merko" alt="caio-crf" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocrf&layout=compact&theme=merko" alt="caio-crf" width="400px"/>
 </div>
 
 ###
-<h3 align="center"> <samp>&gt; Feel free to Connect 👥 with me on </spam></h3>
+
+<h2 align="center"> <samp>&gt; Feel free to Connect 👥 with me on </spam></h2>
 <div align="center">
-<a target="_blank" href="https://www.linkedin.com/in/caio-pinho-a3959b238/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/caio-pinho-a3959b238/">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img>
+ </a>
 </a>
-<a target="_blank" href="mailto:icandoit2026@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="mailto:icandoit2026@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img>
+</a>
 </div>
- 
+
   ![Snake animation](https://github.com/caiocrf/caiocrf/blob/output/github-contribution-grid-snake.svg)
   
  
