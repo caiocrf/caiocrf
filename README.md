@@ -31,9 +31,6 @@ class Skills extends BackEndDeveloper {
 <div> 
 <img align="right" alt="GIF" src="https://github.com/caiocrf/caiocrf/assets/104791688/8b70fa3a-eda8-455b-b676-a7adf73df0d8" width="350px" />
 </div>
-<div align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocrf&layout=compact&theme=merko" alt="caio-crf" width="400px"/>
-</div>
 
 ###
 
