@@ -2,8 +2,8 @@
 <h1 align= "center"><b>Hello World! :earth_asia:</b></h1>
 
 <h2 align="center">
-        <samp>&gt; ME CHAMO
-                <b><a target="_blank" href="https://www.linkedin.com/in/caio-pinho-a3959b238/">CAIO! </a></b>
+        <samp>&gt; 
+                <b><a target="_blank" href="https://www.linkedin.com/in/caio-pinho-a3959b238/">CAIO </a></b>
         </samp>
 </h2>
 
