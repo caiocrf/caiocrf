@@ -21,7 +21,9 @@
  <hr>
   
 ### TECH STACKS
-<div>
+<br>
+
+<div align="left">
 <img align="left" alt="GIF" src="https://github.com/caiocrf/caiocrf/assets/104791688/888d6273-1947-42cb-8436-827044190718" width="57px" /> 
 <img align="left" alt="GIF" src="https://github.com/caiocrf/caiocrf/assets/104791688/88e65f38-0429-4b2c-927a-c19e4e81daa0" width="57px" />
 <img align="left" alt="GIF" src="https://github.com/caiocrf/caiocrf/assets/104791688/db0b5f12-1e83-47a6-b95d-b727adb8b267" width="57px" />
@@ -31,14 +33,28 @@
 <img align="left" alt="GIF" src="https://github.com/caiocrf/caiocrf/assets/104791688/17f79077-b4c9-4830-a0b9-50df8e413599" width="57px" />
 <img align="left" alt="GIF" src="https://github.com/caiocrf/caiocrf/assets/104791688/6f90f49b-2bfc-4615-a151-dcff0e6cbcf6" width="57px" />
 
-
 </div>
 
-###
-
-<div>
+<div >
 <img align="right" alt="GIF" src="https://github.com/caiocrf/caiocrf/assets/104791688/8b70fa3a-eda8-455b-b676-a7adf73df0d8" width="300px" />
 </div>
+<br>
+<br>
+<br>
+
+### CONTACT
+
+<br>
+
+## Profile stats 📊
+
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats-lucas-de-lima.vercel.app/api?username=caiocrf&theme=radical&title_color=8E2DE2&text_color=fff&layout=compact" alt="Lucas-De-Lima :: Top Langs" />
+  <img src="https://github-readme-stats-lucas-de-lima.vercel.app/api/top-langs/?username=caiocrf&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="Lucas-De-Lima :: Top Langs" />
+</div>
+
+
+<br>
 
   ![Snake animation](https://github.com/caiocrf/caiocrf/blob/output/github-contribution-grid-snake.svg)
   
