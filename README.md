@@ -1,32 +1,23 @@
 
-<h3 align="center">
-        <samp>&gt; HEY THERE!, I AM
-                <b><a target="_blank" href="https://www.linkedin.com/in/caio-pinho-a3959b238/">CAIO PINHO! </a></b>
+<h1 align= "center"><b>Hello World! :earth_asia:</b></h1>
+
+<h2 align="center">
+        <samp>&gt; ME CHAMO
+                <b><a target="_blank" href="https://www.linkedin.com/in/caio-pinho-a3959b238/">CAIO! </a></b>
         </samp>
-</h3>
+</h2>
 
+<h4 align= "center"><b>DESENVOLVEDOR BACK-END | FULL STACK</b></h4>
 
-###
-```js
-import { BackEndDeveloper } from '@caiopinho';
+### BIO
+- Brasileiro, nordestino , 21 anos de idade.
+- sou desenvolvedor back-end, possuo formação full stack e tecnólogo em informatica.
+- Desenvolvedor back-end com experiência em sistemas distribuídos e escaláveis.
+- contribuo para projetos open sorces.
+- experiencia com trabalho em equipe usando metodologias ageias.
+- Busco constantemente expandir meu conhecimento e aprimorar minhas habilidades técnicas e interpessoais.
+- amante da lingua inglesa.
 
-class Bio extends BackEndDeveloper {
-  title = 'BackEnd Developer';
-  name = 'Caio Pinho';
-  age = 21;
-  aboutMe = 'Entusiasta da programação, atualmente aplico meus conhecimentos de forma prática em projetos back-end.
-  Porém, tenho formação full-stack e conhecimentos voltados para todo o processo.
-  Estou construindo conhecimentos em conjunto e aprimorando habilidades de softskills e hardskills.';
-};
-
-class Skills extends BackEndDeveloper {
-  Tools = ['git', 'github', 'vscode'];
-  BackEnd = ['NodeJS', 'Docker', 'TypeScript' ,'Python', 'Sequelize'];
-  databases = ['MySQL', 'MongoDB'];
-  frameworks = ['React','Express','Mongoose'];
-  tests = ['Mocha', 'Shai', 'Jest'];
-};
-```
 ###
 <div> 
 <img align="right" alt="GIF" src="https://github.com/caiocrf/caiocrf/assets/104791688/8b70fa3a-eda8-455b-b676-a7adf73df0d8" width="350px" />
@@ -34,7 +25,7 @@ class Skills extends BackEndDeveloper {
 
 ###
 
-<h2 align="center"> <samp>&gt; Feel free to Connect 👥 with me on </spam></h2>
+<h2 align="center"> <samp>&gt; contatos </spam></h2>
 <div align="center">
 <a target="_blank" href="https://www.linkedin.com/in/caio-pinho-a3959b238/">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img>
