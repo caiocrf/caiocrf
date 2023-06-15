@@ -13,9 +13,9 @@
 
 ### BIO
  <h4> - 👨‍💻 Desenvolvedor back-end com formação full stack e tecnólogo em informática.</h4>
+ <h4> - 🧠 Busco constantemente aprender e aprimorar minhas habilidades técnicas e interpessoais.</h4>
  <h4>- 🤝 Contribuo ativamente para projetos open sorces.</h4>
  <h4> - 🦾 Experiência sólida em trabalho em equipe, utilizando metodologias ágeis.</h4>
- <h4> - 🧠 Busco constantemente aprender e aprimorar minhas habilidades técnicas e interpessoais.</h4>
  <h4>- 🌍 Estou empenhado em desenvolver fluência no idioma inglês.</h4>
  
  <hr>
