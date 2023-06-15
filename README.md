@@ -10,13 +10,10 @@
 <h4 align= "center"><b>DESENVOLVEDOR BACK-END | FULL STACK</b></h4>
 
 ### BIO
-- Brasileiro, nordestino , 21 anos de idade.
-- sou desenvolvedor back-end, possuo formação full stack e tecnólogo em informatica.
-- Desenvolvedor back-end com experiência em sistemas distribuídos e escaláveis.
-- contribuo para projetos open sorces.
-- experiencia com trabalho em equipe usando metodologias ageias.
-- Busco constantemente expandir meu conhecimento e aprimorar minhas habilidades técnicas e interpessoais.
-- amante da lingua inglesa.
+ <h4> - 🇧🇷 Desenvolvedor back-end, possuo formação full stack e tecnólogo em informatica.</h4>
+ <h4>- 🤝 Contribuo para projetos open sorces.</h4>
+ <h4> - 🦾 Experiencia com trabalho em equipe usando metodologias ageias.</h4>
+ <h4> - 🧠 Busco constantemente expandir meu conhecimento e aprimorar minhas habilidades técnicas e interpessoais.</h4>
 
 ###
 <div> 
