@@ -48,9 +48,9 @@
 
 ## Profile stats 📊
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats-lucas-de-lima.vercel.app/api?username=caiocrf&theme=radical&title_color=8E2DE2&text_color=fff&layout=compact" alt="Lucas-De-Lima :: Top Langs" />
-  <img src="https://github-readme-stats-lucas-de-lima.vercel.app/api/top-langs/?username=caiocrf&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="Lucas-De-Lima :: Top Langs" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=caiocrf&show_icons=true&theme=gruvbox"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocrf&hide_progress=false&theme=gruvbox"/>
 </div>
 
 
