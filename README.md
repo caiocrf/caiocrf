@@ -24,11 +24,13 @@
 <div>
 <img align="left" alt="GIF" src="https://github.com/caiocrf/caiocrf/assets/104791688/888d6273-1947-42cb-8436-827044190718" width="57px" /> 
 <img align="left" alt="GIF" src="https://github.com/caiocrf/caiocrf/assets/104791688/88e65f38-0429-4b2c-927a-c19e4e81daa0" width="57px" />
-<img align="left" alt="GIF" src="https://github.com/caiocrf/caiocrf/assets/104791688/6f90f49b-2bfc-4615-a151-dcff0e6cbcf6" width="57px" />
+<img align="left" alt="GIF" src="https://github.com/caiocrf/caiocrf/assets/104791688/db0b5f12-1e83-47a6-b95d-b727adb8b267" width="57px" />
+ <img align="left" alt="GIF" src="https://github.com/caiocrf/caiocrf/assets/104791688/80dca59f-45d6-4b4c-9bcd-be1ee70f0e65" width="57px" />
 <img align="left" alt="GIF" src="https://github.com/caiocrf/caiocrf/assets/104791688/99cd0f22-46db-4eb2-8747-8f5740089640" width="57px" />
-<img align="left" alt="GIF" src="https://github.com/caiocrf/caiocrf/assets/104791688/80dca59f-45d6-4b4c-9bcd-be1ee70f0e65" width="57px" />
 <img align="left" alt="GIF" src="https://github.com/caiocrf/caiocrf/assets/104791688/80cf9a03-c548-4392-be52-90ab1de12a94" width="57px" />
-<img align="left" alt="GIF" src="https://github.com/caiocrf/caiocrf/assets/104791688/eeaf7ea8-7a4c-437f-9d3c-a7f7473d1780" width="57px" />
+<img align="left" alt="GIF" src="https://github.com/caiocrf/caiocrf/assets/104791688/17f79077-b4c9-4830-a0b9-50df8e413599" width="57px" />
+<img align="left" alt="GIF" src="https://github.com/caiocrf/caiocrf/assets/104791688/6f90f49b-2bfc-4615-a151-dcff0e6cbcf6" width="57px" />
+
 
 </div>
 
