@@ -46,8 +46,6 @@
 <br>
 
 <a target="_blank" href="https://www.linkedin.com/in/caio-pinho-a3959b238/"><img src="https://github.com/caiocrf/caiocrf/assets/104791688/a96ecae4-2f92-45fa-b25a-ba2193e3ea78" width="45px"/></a>
-<a target="_blank" href="mailto:icandoit2026@gmail.com"><img src="https://github.com/caiocrf/caiocrf/assets/104791688/5ba1b522-acc7-466c-a81a-284909c05436" width="45px"></img></a>
-<br>
 
   ![Snake animation](https://github.com/caiocrf/caiocrf/blob/output/github-contribution-grid-snake.svg)
   
